@@ -1,4 +1,4 @@
-## Olá, meu nome é Paulo Otávio e estudo programação a quase 2 anos.
+## Olá, meu nome é Paulo Otávio e estudo programação a 2 anos.
 
 - 👀 Tenho interesse em desenvolvimento web e inteligência artificial.
 - 🌱 Atualmente estudando Python e Django.
