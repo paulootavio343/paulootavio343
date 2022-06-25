@@ -1,13 +1,17 @@
-## Olá, meu nome é Paulo Otávio e estudo programação a mais de 2 anos.
+## Olá, meu nome é Paulo Otávio.
 
-- 👀 Tenho interesse em desenvolvimento web e inteligência artificial.
-- 🌱 Atualmente estudando Python e Django.
-- 📫 Brasileiro.
+- :eyes: Tenho interesse em desenvolvimento web e inteligência artificial.
+- :computer: Criando projetos front-end com HTML, CSS e JavaScript.
+- :computer: Estudando back-end com Python e Django.
+- :robot: Começando a estudar TensorFlow.
+- :books: Fazendo aulas online de inglês. 
+- :mailbox: Brasileiro.
 
 <div align="center">
   <a href="https://github.com/paulootavio343">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulootavio343&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulootavio343&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulootavio343&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulootavio343&layout=compact&langs_count=7&theme=tokyonight&border_radius=12px"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
@@ -16,6 +20,7 @@
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="TensorFlow" title="TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
 </div>
   
 ##
