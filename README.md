@@ -3,8 +3,7 @@
 - :eyes: Tenho interesse em desenvolvimento web e inteligência artificial.
 - :computer: Criando projetos front-end com HTML, CSS e JavaScript.
 - :computer: Estudando back-end com Python e Django.
-- :robot: Começando a estudar TensorFlow.
-- :books: Fazendo aulas online de inglês. 
+- :robot: Começando a estudar TensorFlow. 
 - :mailbox: Brasileiro.
 
 <div align="center">
