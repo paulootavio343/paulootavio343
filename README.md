@@ -1,8 +1,7 @@
 ## Olá, meu nome é Paulo Otávio.
 
 - :eyes: Tenho interesse em desenvolvimento web e inteligência artificial.
-- :computer: Criando projetos front-end com HTML, CSS e JavaScript.
-- :computer: Estudando back-end com Python e Django.
+- :computer: Criando projetos full-stack com Python, Django, HTML, CSS e JavaScript.
 - :robot: Começando a estudar TensorFlow. 
 - :mailbox: Brasileiro.
 
