@@ -1,8 +1,8 @@
 ## Olá, meu nome é Paulo Otávio.
 
 - :eyes: Tenho interesse em desenvolvimento web e inteligência artificial.
-- :computer: Criando projetos full-stack com Python, Django, HTML, CSS e JavaScript.
-- :computer: Começando a estudar Node.js.
+- :computer: Criando projetos full-stack com HTML, CSS, JavaScript, Python e Django.
+- :computer: Iniciando os estudos em Deep Learning.
 - :mailbox: Brasileiro.
 
 <div align="center">
@@ -22,6 +22,10 @@
   <img align="center" alt="Django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Pandas" title="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Numpy" title="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="TensorFlow" title="TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="PyTorch" title="PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
 </div>
   
 ##
