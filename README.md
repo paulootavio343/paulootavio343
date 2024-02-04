@@ -1,6 +1,6 @@
 ## Olá, meu nome é Paulo Otávio.
 
-- :eyes: Tenho interesse em ciência de dados e inteligência artificial.
+- :eyes: Tenho interesse em desenvolvimento web, ciência de dados e inteligência artificial.
 - :computer: Estudando programação avançada em Python.
 - :computer: Pretendo ser engenheiro de IA.
 - :mailbox: Brasileiro.
